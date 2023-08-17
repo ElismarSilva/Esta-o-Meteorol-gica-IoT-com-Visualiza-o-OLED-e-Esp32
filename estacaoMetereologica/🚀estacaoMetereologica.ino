@@ -15,7 +15,7 @@ Data: 17/08/2023
 GitHub: https://github.com/ElismarSilva
 
 Descrição:
-A Estação Meteorológica IoT com Visualização OLED é um projeto que utiliza um microcontrolador ESP32 para coletar e exibir dados de temperatura e umidade. O display OLED mostra as informações de maneira clara e fácil de entender. Além disso, o projeto inclui sincronização de horário utilizando o protocolo NTP (Network Time Protocol) via conexão WiFi, garantindo que a hora exibida seja precisa.
+ A Estação Meteorológica IoT com Visualização OLED é um projeto que utiliza um microcontrolador ESP32 para coletar e exibir dados de temperatura e umidade. O display OLED mostra as informações de maneira clara e fácil de entender. Além disso, o projeto inclui sincronização de horário utilizando o protocolo NTP (Network Time Protocol) via conexão WiFi, garantindo que a hora exibida seja precisa.
 
 Recursos do Projeto:
 - Coleta de dados de temperatura e umidade.
