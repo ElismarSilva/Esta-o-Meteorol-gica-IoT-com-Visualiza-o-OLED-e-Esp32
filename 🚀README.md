@@ -1,4 +1,4 @@
-# Estação Meteorológica IoT com ESP32 e Display OLED
+# Estação Meteorológica IoT com ESP32 e Display OLED.
 
 ## Descrição
 
